@@ -17,7 +17,7 @@ function Main() {
   return (
     <div className="main">
       <div className="nav">
-        <p>GeMini Lite</p>
+        <p>GeMini Lite by Akhand Pratap singh </p>
         <img src={assets.user_icon} />
       </div>
       <div className="main-container">
