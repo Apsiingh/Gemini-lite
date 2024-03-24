@@ -1,6 +1,6 @@
  # Live-Link
   ```
-   https://gemini-lite-iota.vercel.app/
+  https://gemini-lite-b281ojvs2-akhands-projects.vercel.app/
 
   ```
    
